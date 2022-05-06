@@ -1,0 +1,22 @@
+O jogo é sobre abduzir todas as pessoas ao redor do protagonista para deixá-lo sozinho. 
+Se abduzir o protagonista, você perde.
+
+Teremos 3 horas para desenvolver o jogo, então dividiremos da seguinte forma. 
+-- A primeira hora:
+  * Programar o jogo usando protótipos para arte:
+    * Alta prioridade:
+    -- Se o número de pessoas chegar a 0 (desconsiderando o protagonista, o jogador vence);
+    -- Randomizar a cor das pessoas;
+    * Baixa prioridade:
+    -- Highscore baseado no tempo;
+    -- Comportamento tranquilo das pessoas enquanto a nave não começou a abduzir;
+    -- Aumentar e diminuir o raio dentro dos limites;
+
+-- A segunda hora:
+  * Criação das artes: 
+    -- OVNI;
+    -- Pessoas (2 tipos para cada sexo, 2 cores);
+    -- O ambiente: 
+    -- O protagonista;
+
+-- 
